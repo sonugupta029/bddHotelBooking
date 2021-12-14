@@ -1,2 +1,2 @@
 # bddHotelBooking
-This repo is for making hotel booking using BDD
+This repo is for making hotel booking using BDD approach
